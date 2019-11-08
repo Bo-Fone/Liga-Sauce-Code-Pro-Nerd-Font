@@ -11,7 +11,7 @@
 
 ## Getting Involved
 
-Send suggestions for changes to the Source Code OpenType font project maintainer, [Paul D. Hunt](mailto:opensourcefonts@adobe.com?subject=[GitHub] Source Code Pro), for consideration.
+Send suggestions for changes to the Source Code OpenType font project maintainer, [Paul D. Hunt](mailto:opensourcefonts@adobe.com?subject=[GitHub]Source-Code-Pro), for consideration.
 
 ## Further Information
 
