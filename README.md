@@ -16,5 +16,6 @@ Send suggestions for changes to the Source Code OpenType font project maintainer
 ## Further Information
 
 Ligature patched using [Ligaturizer](https://github.com/ToxicFrog/Ligaturizer).
+Nerd Font patched using [Nerd Font](https://github.com/ryanoasis/nerd-fonts).
 
 For information about the design and background of Source Code, please refer to the [official font readme file](http://www.adobe.com/products/type/font-information/source-code-pro-readme.html).

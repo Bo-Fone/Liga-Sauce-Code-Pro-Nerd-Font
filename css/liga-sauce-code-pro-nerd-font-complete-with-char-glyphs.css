@@ -1,0 +1,125 @@
+@font-face {
+    font-family: 'Liga Sauce Code Pro Nerd Font Complete with Char Glyphs';
+    font-weight: 200;
+    font-style: normal;
+    font-stretch: normal;
+    src: url('https://github.com/Bo-Fone/Liga-Sauce-Code-Pro-Nerd-Font/raw/master/OTF/Liga-Sauce-Code-Pro-Nerd-Font-Complete-with-Char-Glyphs/Liga-Sauce-Code-Pro-ExtraLight-Nerd-Font-Complete.otf')
+        format('opentype');
+}
+
+@font-face {
+    font-family: 'Liga Sauce Code Pro Nerd Font Complete with Char Glyphs';
+    font-weight: 200;
+    font-style: italic;
+    font-stretch: normal;
+    src: url('https://github.com/Bo-Fone/Liga-Sauce-Code-Pro-Nerd-Font/raw/master/OTF/Liga-Sauce-Code-Pro-Nerd-Font-Complete-with-Char-Glyphs/Liga-Sauce-Code-Pro-ExtraLightIt-Nerd-Font-Complete.otf')
+        format('opentype');
+}
+
+@font-face {
+    font-family: 'Liga Sauce Code Pro Nerd Font Complete with Char Glyphs';
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    src: url('https://github.com/Bo-Fone/Liga-Sauce-Code-Pro-Nerd-Font/raw/master/OTF/Liga-Sauce-Code-Pro-Nerd-Font-Complete-with-Char-Glyphs/Liga-Sauce-Code-Pro-Light-Nerd-Font-Complete.otf')
+        format('opentype');
+}
+
+@font-face {
+    font-family: 'Liga Sauce Code Pro Nerd Font Complete with Char Glyphs';
+    font-weight: 300;
+    font-style: italic;
+    font-stretch: normal;
+    src: url('https://github.com/Bo-Fone/Liga-Sauce-Code-Pro-Nerd-Font/raw/master/OTF/Liga-Sauce-Code-Pro-Nerd-Font-Complete-with-Char-Glyphs/Liga-Sauce-Code-Pro-LightIt-Nerd-Font-Complete.otf')
+        format('opentype');
+}
+
+@font-face {
+    font-family: 'Liga Sauce Code Pro Nerd Font Complete with Char Glyphs';
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+    src: url('https://github.com/Bo-Fone/Liga-Sauce-Code-Pro-Nerd-Font/raw/master/OTF/Liga-Sauce-Code-Pro-Nerd-Font-Complete-with-Char-Glyphs/Liga-Sauce-Code-Pro-Regular-Nerd-Font-Complete.otf')
+        format('opentype');
+}
+
+@font-face {
+    font-family: 'Liga Sauce Code Pro Nerd Font Complete with Char Glyphs';
+    font-weight: 400;
+    font-style: italic;
+    font-stretch: normal;
+    src: url('https://github.com/Bo-Fone/Liga-Sauce-Code-Pro-Nerd-Font/raw/master/OTF/Liga-Sauce-Code-Pro-Nerd-Font-Complete-with-Char-Glyphs/Liga-Sauce-Code-Pro-It-Nerd-Font-Complete.otf')
+        format('opentype');
+}
+
+@font-face {
+    font-family: 'Liga Sauce Code Pro Nerd Font Complete with Char Glyphs';
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    src: url('https://github.com/Bo-Fone/Liga-Sauce-Code-Pro-Nerd-Font/raw/master/OTF/Liga-Sauce-Code-Pro-Nerd-Font-Complete-with-Char-Glyphs/Liga-Sauce-Code-Pro-Medium-Nerd-Font-Complete.otf')
+        format('opentype');
+}
+
+@font-face {
+    font-family: 'Liga Sauce Code Pro Nerd Font Complete with Char Glyphs';
+    font-weight: 500;
+    font-style: italic;
+    font-stretch: normal;
+    src: url('https://github.com/Bo-Fone/Liga-Sauce-Code-Pro-Nerd-Font/raw/master/OTF/Liga-Sauce-Code-Pro-Nerd-Font-Complete-with-Char-Glyphs/Liga-Sauce-Code-Pro-MediumIt-Nerd-Font-Complete.otf')
+        format('opentype');
+}
+
+@font-face {
+    font-family: 'Liga Sauce Code Pro Nerd Font Complete with Char Glyphs';
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    src: url('https://github.com/Bo-Fone/Liga-Sauce-Code-Pro-Nerd-Font/raw/master/OTF/Liga-Sauce-Code-Pro-Nerd-Font-Complete-with-Char-Glyphs/Liga-Sauce-Code-Pro-Semibold-Nerd-Font-Complete.otf')
+        format('opentype');
+}
+
+@font-face {
+    font-family: 'Liga Sauce Code Pro Nerd Font Complete with Char Glyphs';
+    font-weight: 600;
+    font-style: italic;
+    font-stretch: normal;
+    src: url('https://github.com/Bo-Fone/Liga-Sauce-Code-Pro-Nerd-Font/raw/master/OTF/Liga-Sauce-Code-Pro-Nerd-Font-Complete-with-Char-Glyphs/Liga-Sauce-Code-Pro-SemiboldIt-Nerd-Font-Complete.otf')
+        format('opentype');
+}
+
+@font-face {
+    font-family: 'Liga Sauce Code Pro Nerd Font Complete with Char Glyphs';
+    font-weight: 700;
+    font-style: normal;
+    font-stretch: normal;
+    src: url('https://github.com/Bo-Fone/Liga-Sauce-Code-Pro-Nerd-Font/raw/master/OTF/Liga-Sauce-Code-Pro-Nerd-Font-Complete-with-Char-Glyphs/Liga-Sauce-Code-Pro-Bold-Nerd-Font-Complete.otf')
+        format('opentype');
+}
+
+@font-face {
+    font-family: 'Liga Sauce Code Pro Nerd Font Complete with Char Glyphs';
+    font-weight: 700;
+    font-style: italic;
+    font-stretch: normal;
+    src: url('https://github.com/Bo-Fone/Liga-Sauce-Code-Pro-Nerd-Font/raw/master/OTF/Liga-Sauce-Code-Pro-Nerd-Font-Complete-with-Char-Glyphs/Liga-Sauce-Code-Pro-BoldIt-Nerd-Font-Complete.otf')
+        format('opentype');
+}
+
+@font-face {
+    font-family: 'Liga Sauce Code Pro Nerd Font Complete with Char Glyphs';
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    src: url('https://github.com/Bo-Fone/Liga-Sauce-Code-Pro-Nerd-Font/raw/master/OTF/Liga-Sauce-Code-Pro-Nerd-Font-Complete-with-Char-Glyphs/Liga-Sauce-Code-Pro-Black-Nerd-Font-Complete.otf')
+        format('opentype');
+}
+
+@font-face {
+    font-family: 'Liga Sauce Code Pro Nerd Font Complete with Char Glyphs';
+    font-weight: 900;
+    font-style: italic;
+    font-stretch: normal;
+    src: url('https://github.com/Bo-Fone/Liga-Sauce-Code-Pro-Nerd-Font/raw/master/OTF/Liga-Sauce-Code-Pro-Nerd-Font-Complete-with-Char-Glyphs/Liga-Sauce-Code-Pro-BlackIt-Nerd-Font-Complete.otf')
+        format('opentype');
+}

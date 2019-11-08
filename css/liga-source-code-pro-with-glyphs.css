@@ -1,0 +1,125 @@
+@font-face {
+    font-family: 'Liga Source Code Pro with Char Glyphs';
+    font-weight: 200;
+    font-style: normal;
+    font-stretch: normal;
+    src: url('https://github.com/Bo-Fone/Liga-Sauce-Code-Pro-Nerd-Font/raw/master/OTF/Liga-Source-Code-Pro-with-Char-Glyphs/LigaSourceCodePro-ExtraLight.otf')
+        format('opentype');
+}
+
+@font-face {
+    font-family: 'Liga Source Code Pro with Char Glyphs';
+    font-weight: 200;
+    font-style: italic;
+    font-stretch: normal;
+    src: url('https://github.com/Bo-Fone/Liga-Sauce-Code-Pro-Nerd-Font/raw/master/OTF/Liga-Source-Code-Pro-with-Char-Glyphs/LigaSourceCodePro-ExtraLightIt.otf')
+        format('opentype');
+}
+
+@font-face {
+    font-family: 'Liga Source Code Pro with Char Glyphs';
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    src: url('https://github.com/Bo-Fone/Liga-Sauce-Code-Pro-Nerd-Font/raw/master/OTF/Liga-Source-Code-Pro-with-Char-Glyphs/LigaSourceCodePro-Light.otf')
+        format('opentype');
+}
+
+@font-face {
+    font-family: 'Liga Source Code Pro with Char Glyphs';
+    font-weight: 300;
+    font-style: italic;
+    font-stretch: normal;
+    src: url('https://github.com/Bo-Fone/Liga-Sauce-Code-Pro-Nerd-Font/raw/master/OTF/Liga-Source-Code-Pro-with-Char-Glyphs/LigaSourceCodePro-LightIt.otf')
+        format('opentype');
+}
+
+@font-face {
+    font-family: 'Liga Source Code Pro with Char Glyphs';
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+    src: url('https://github.com/Bo-Fone/Liga-Sauce-Code-Pro-Nerd-Font/raw/master/OTF/Liga-Source-Code-Pro-with-Char-Glyphs/LigaSourceCodePro-Regular.otf')
+        format('opentype');
+}
+
+@font-face {
+    font-family: 'Liga Source Code Pro with Char Glyphs';
+    font-weight: 400;
+    font-style: italic;
+    font-stretch: normal;
+    src: url('https://github.com/Bo-Fone/Liga-Sauce-Code-Pro-Nerd-Font/raw/master/OTF/Liga-Source-Code-Pro-with-Char-Glyphs/LigaSourceCodePro-It.otf')
+        format('opentype');
+}
+
+@font-face {
+    font-family: 'Liga Source Code Pro with Char Glyphs';
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    src: url('https://github.com/Bo-Fone/Liga-Sauce-Code-Pro-Nerd-Font/raw/master/OTF/Liga-Source-Code-Pro-with-Char-Glyphs/LigaSourceCodePro-Medium.otf')
+        format('opentype');
+}
+
+@font-face {
+    font-family: 'Liga Source Code Pro with Char Glyphs';
+    font-weight: 500;
+    font-style: italic;
+    font-stretch: normal;
+    src: url('https://github.com/Bo-Fone/Liga-Sauce-Code-Pro-Nerd-Font/raw/master/OTF/Liga-Source-Code-Pro-with-Char-Glyphs/LigaSourceCodePro-MediumIt.otf')
+        format('opentype');
+}
+
+@font-face {
+    font-family: 'Liga Source Code Pro with Char Glyphs';
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    src: url('https://github.com/Bo-Fone/Liga-Sauce-Code-Pro-Nerd-Font/raw/master/OTF/Liga-Source-Code-Pro-with-Char-Glyphs/LigaSourceCodePro-Semibold.otf')
+        format('opentype');
+}
+
+@font-face {
+    font-family: 'Liga Source Code Pro with Char Glyphs';
+    font-weight: 600;
+    font-style: italic;
+    font-stretch: normal;
+    src: url('https://github.com/Bo-Fone/Liga-Sauce-Code-Pro-Nerd-Font/raw/master/OTF/Liga-Source-Code-Pro-with-Char-Glyphs/LigaSourceCodePro-SemiboldIt.otf')
+        format('opentype');
+}
+
+@font-face {
+    font-family: 'Liga Source Code Pro with Char Glyphs';
+    font-weight: 700;
+    font-style: normal;
+    font-stretch: normal;
+    src: url('https://github.com/Bo-Fone/Liga-Sauce-Code-Pro-Nerd-Font/raw/master/OTF/Liga-Source-Code-Pro-with-Char-Glyphs/LigaSourceCodePro-Bold.otf')
+        format('opentype');
+}
+
+@font-face {
+    font-family: 'Liga Source Code Pro with Char Glyphs';
+    font-weight: 700;
+    font-style: italic;
+    font-stretch: normal;
+    src: url('https://github.com/Bo-Fone/Liga-Sauce-Code-Pro-Nerd-Font/raw/master/OTF/Liga-Source-Code-Pro-with-Char-Glyphs/LigaSourceCodePro-BoldIt.otf')
+        format('opentype');
+}
+
+@font-face {
+    font-family: 'Liga Source Code Pro with Char Glyphs';
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    src: url('https://github.com/Bo-Fone/Liga-Sauce-Code-Pro-Nerd-Font/raw/master/OTF/Liga-Source-Code-Pro-with-Char-Glyphs/LigaSourceCodePro-Black.otf')
+        format('opentype');
+}
+
+@font-face {
+    font-family: 'Liga Source Code Pro with Char Glyphs';
+    font-weight: 900;
+    font-style: italic;
+    font-stretch: normal;
+    src: url('https://github.com/Bo-Fone/Liga-Sauce-Code-Pro-Nerd-Font/raw/master/OTF/Liga-Source-Code-Pro-with-Char-Glyphs/LigaSourceCodePro-BlackIt.otf')
+        format('opentype');
+}
