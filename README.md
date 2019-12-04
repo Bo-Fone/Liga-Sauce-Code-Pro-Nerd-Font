@@ -9,6 +9,8 @@
 * [Linux/Unix-based Systems](https://github.com/adobe-fonts/source-code-pro/issues/17#issuecomment-8967116)
 * [Blink Shell](https://github.com/blinksh/blink/blob/raw/Resources/FontsAndThemes.md)
 
+File names containing **"-with-char-glyphs"** indicate the font sets not only has the special ligatures, but it also replaces regular characters, such as "&", "~", and "<>", with their ligaturized version. I do not recommend using them as they visually tend to have subtle difference in font-sizes.
+
 ## Getting Involved
 
 Send suggestions for changes to the Source Code OpenType font project maintainer, [Paul D. Hunt](mailto:opensourcefonts@adobe.com?subject=[GitHub]Source-Code-Pro), for consideration.
